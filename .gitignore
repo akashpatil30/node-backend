@@ -5,3 +5,4 @@ eslint.config.cjs
 .prettierrc
 nodemon.json
 tsconfig.json
+.env
