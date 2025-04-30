@@ -9,7 +9,8 @@
     "forceConsistentCasingInFileNames": true, // Ensure consistent file name casing
     "outDir": "./dist",       // Output compiled JavaScript to the dist folder
     "allowJs": true,
-    "lib": ["es2020", "dom"]           // Allow JavaScript files in your project
+    "lib": ["es2020", "dom"],
+    "types": ["node", "express"]           // Allow JavaScript files in your project
   },
   "include": ["src/**/*"],    // Include all files in the src folder
   "exclude": ["node_modules", "dist"] // Exclude node_modules and dist folders
