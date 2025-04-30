@@ -1,4 +1,5 @@
-{
+{  
+  "engines": { "node": ">=18" },
   "scripts": {
     "dev": "nodemon server.ts",
     "build": "tsc",
