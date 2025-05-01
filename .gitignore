@@ -1,7 +1,6 @@
 node_modules
 package-lock.json
 dist
-eslint.config.cjs
 .prettierrc
 nodemon.json
 .env
